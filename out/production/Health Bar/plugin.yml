@@ -1,0 +1,5 @@
+name: HealthBar
+version: 1.0.0
+author: RainyPaws
+main: me.rainypaws.healthbar.Main
+api-version: 1.16
