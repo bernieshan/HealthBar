@@ -11,11 +11,11 @@ import org.bukkit.event.entity.EntitySpawnEvent;
 import java.util.HashMap;
 
 public class MobListener implements Listener {
-    private boolean enabled = false;
-
-    public void setMobListenerEnabled(boolean bool) {
-        enabled = bool;
-    }
+//    private boolean enabled = false;
+//
+//    public void setMobListenerEnabled(boolean bool) {
+//        enabled = bool;
+//    }
 
     private static final HashMap<EntityType, String> entities = new HashMap<>();
     static {
